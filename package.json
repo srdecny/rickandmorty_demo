@@ -1,0 +1,15 @@
+{
+  "name": "rickandmorty_demo",
+  "version": "1.0.0",
+  "description": "Simple Rick and Morty API visualizer demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
